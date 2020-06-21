@@ -20,7 +20,7 @@ public class ExamplePull {
     System.out.println("Learning another pull  and fetch 1234 operations in github ");
     System.out.println("Learning another pull  and fetch 5678 operations in github ");
     System.out.println("LEARNING another fetch and merge practice ");
-
+    System.out.println("Leraning pull operations in github ");
 
         
     }
